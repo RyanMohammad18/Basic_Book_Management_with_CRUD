@@ -1,0 +1,50 @@
+body{
+    background-image: url("./Images/pexels-ivo-rainha-1290141.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+  
+    
+}
+
+.item{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    background-color:burlywood;
+    opacity: 0.9;
+    
+    
+}
+.btn{
+    padding: 0.5rem;
+    background-color:aquamarine;
+    border-style:double;
+    border-color: black;
+    
+}
+.table{
+    margin-top: 2rem;
+    width: 80%;
+    justify-content: center;
+    border-style:double;
+    border-color: black;
+    
+    
+
+}
+th{
+    padding: 10px;
+    border-style:double;
+    border-color: black;
+    font-size:larger;
+
+}
+td{
+    padding: 10px;
+    border-style:double;
+    border-color: black;
+    font-size:larger;
+}
+
